@@ -1,4 +1,4 @@
-package test;
+package main.java;
 
 public class Test_01 {
 

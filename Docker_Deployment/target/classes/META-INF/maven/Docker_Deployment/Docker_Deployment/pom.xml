@@ -13,9 +13,9 @@
           <source>1.8</source>
           <target>1.8</target>
           <archive>
-				<manifest>
-					<mainClass>src.test.Test_01</mainClass>
-				</manifest>
+		    <manifest>
+				<mainClass>Test_01</mainClass>
+		    </manifest>
 		 </archive>
         </configuration>
       </plugin>
